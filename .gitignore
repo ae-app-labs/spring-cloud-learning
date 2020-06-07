@@ -1,6 +1,7 @@
 /.metadata
 /limits-service
 /spring-cloud-config-server
+/git-local-config-repo
 */target/
 
 ### STS ###
