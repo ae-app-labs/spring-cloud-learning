@@ -1,0 +1,13 @@
+/.metadata
+/limits-service
+/spring-cloud-config-server
+*/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
